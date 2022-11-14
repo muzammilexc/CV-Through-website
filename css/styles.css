@@ -1,0 +1,25 @@
+body{
+  background-color: DarkKhaki;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  color: gold;
+  border-width: 5px;
+  width: 10%
+}
+h1,h3{
+  color: #FFFACD;
+}
+/***********************class selectors************
+
+.heading3{
+background-color: gold;
+}   */
+
+/***********************ID selectors****************
+
+#heading1 {
+Color: green;
+}
+      */
